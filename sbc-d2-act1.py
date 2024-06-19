@@ -11,7 +11,3 @@ print(b[7:11])
 print(a)
 print(s)
 print(c.isalpha())
-
-
-
-
