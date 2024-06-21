@@ -13,7 +13,7 @@ elif res[0] == "2" and res[1] == "1" and res[2] == "3":
 elif res == "555":
     out = "You lose!"
 else:
-    out = "No special outcome."
+    out = "Better Luck Next Time."
 
 print(f"Result = {res}")
 print(out)

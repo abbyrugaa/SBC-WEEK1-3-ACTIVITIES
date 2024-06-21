@@ -31,7 +31,7 @@ def get_winner(p1, p2, p3):
 p1 = input("Enter your choice (KULOB/HAYANG): ").upper()
 
 if p1 != "KULOB" and p1 != "HAYANG":
-    print("Invalid choice. Please choose either KULOB or HAYANG.")
+    print("Not Valid C. Please choose either KULOB or HAYANG.")
 else:
     p2 = ch[randint(0, 1)]
     p3 = ch[randint(0, 1)]
